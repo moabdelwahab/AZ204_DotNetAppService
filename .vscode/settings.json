@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/bb3996eb-48b0-4696-ac1a-0c26516d7b71/resourceGroups/Azure204AppService/providers/Microsoft.Web/sites/Azure204AppService/slots/subscriptions/bb3996eb-48b0-4696-ac1a-0c26516d7b71/resourceGroups/Azure204AppService/providers/Microsoft.Web/sites/azure204appservice/slots/development",
+    "appService.deploySubpath": "bin\\publish"
+}
